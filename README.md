@@ -1,2 +1,2 @@
 # SpringMVCSample
-Sample exampe for Spring
+Sample examples for Spring
